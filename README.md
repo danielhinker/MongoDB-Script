@@ -4,7 +4,7 @@ Script to find the most frequently used word in a data set, in the past 24 hours
 
 In the mongo terminal, type the command below:
 ```
- load('script.js')
+load('script.js')
 ```
 
 The word that occurs the most in the data set is saved in the variable below:
